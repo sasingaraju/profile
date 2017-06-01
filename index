@@ -1,0 +1,45 @@
+<html>
+    
+        <title>BIRTHDAY PARTY INVITATION </title>
+        <style>
+             
+            body  {
+                   color: white;
+                   font-size: 120 px ;
+                   font-family:cursive;
+                   text-align:right;
+                    background:url(Buildings.jpg) ;
+                    
+                background-repeat: no-repeat;
+                background-size: cover;
+                    padding: 150px 0 0 0 ;
+             
+                    border:black dashe;
+                        
+                    
+        
+        
+        </style>
+    </head>
+    
+    <body>
+        <h1>HEY BUDDY'S !!!</h1>
+        <h3>It is my birthday!!!!! and i am having a party .  </h3>
+        <h3><em>YOU ARE INVITED</em></h3>
+        
+        <blockquote>venue : Grand canyon <br> 
+        
+        Date : 26 nov <br>
+            
+        time : 5:00   <br>
+        
+        Dress code: yellow (girls) blue (boys) <br>
+            
+        theme : minions 
+        </blockquote>
+        <ul>
+        <li>WISH LIST : I WANT A TAJ MAHAL OR THE WHOLE ALASKA.</li>
+        </ul>
+        
+    </body>
+</html>

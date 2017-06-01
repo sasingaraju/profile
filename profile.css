@@ -1,0 +1,41 @@
+     
+body  {
+        text-align: center;
+        background:black;
+        color:antiquewhite;
+                
+}
+                
+header{
+height: 200px;
+    
+}
+
+li{
+display: inline;
+    padding: 20px;
+}
+a{
+  font-size: 20px;
+      color: cornsilk;
+      text-decoration: none;
+    
+    
+}  
+img{
+ border:  5px white solid;
+    border-radius: 40px;
+    }
+
+ul{
+    padding-left: 320px;
+    padding-right: 320px;
+    list-style: disc;
+}
+
+    
+    
+
+                        
+        
+        
